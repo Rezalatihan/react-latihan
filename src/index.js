@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
-import Index from './materi/pembahasan';
+import IndexPortfolio from './tugas/portfolio/IndexPortfolio';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Index />
+    <IndexPortfolio />
   </React.StrictMode>
 );
 
