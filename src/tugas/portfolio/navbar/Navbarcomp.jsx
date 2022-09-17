@@ -9,7 +9,7 @@ function Navbarcomp() {
         <Navbar.Brand href="#">Reza Catria Akbar</Navbar.Brand>
         <Nav className="d-flex justify-content-end">
           <Nav.Link href="#home">Home</Nav.Link>
-          <Nav.Link href="#features">About Me</Nav.Link>
+          <Nav.Link href="#features">About</Nav.Link>
           <Nav.Link href="#pricing">Pricing</Nav.Link>
         </Nav>
       </Container>
