@@ -1,10 +1,10 @@
 import React from "react";
-import Cardd from "./component/cardd/Cardd";
+import Navbarcomp from "./navbar/Navbarcomp";
 import Banner from "./component/carosel/Banner";
 import Content from "./component/Content";
-import Footer from "./footer/Footer";
+import Cardd from "./component/cardd/Cardd";
 import Forms from "./forms/Forms";
-import Navbarcomp from "./navbar/Navbarcomp";
+import Footer from "./footer/Footer";
 
 function Indexportfolio() {
   return (
