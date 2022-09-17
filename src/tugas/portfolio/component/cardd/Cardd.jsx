@@ -10,7 +10,7 @@ function Cardd() {
         <Card>
           <Card.Img variant="top" src="css.png" />
           <Card.Body>
-            <Card.Title>css</Card.Title>
+            <Card.Title>CSS</Card.Title>
             <Card.Text>
               CSS adalah singkatan dari cascading style sheets, yaitu bahasa yang digunakan untuk menentukan tampilan dan format halaman website. Dengan CSS, Anda bisa mengatur jenis font, warna tulisan, dan latar belakang halaman.
             </Card.Text>
