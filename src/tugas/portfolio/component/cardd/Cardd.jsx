@@ -5,7 +5,7 @@ import Row from "react-bootstrap/Row";
 
 function Cardd() {
   return (
-    <Row xs={1} md={4} className="m-1">
+    <Row xs={1} md={4} className="m-5">
       <Col>
         <Card>
           <Card.Img variant="top" src="css.png" />
