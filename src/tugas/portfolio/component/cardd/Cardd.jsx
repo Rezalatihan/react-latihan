@@ -33,7 +33,7 @@ function Cardd() {
         <Card>
           <Card.Img variant="top" src="git.png" />
           <Card.Body>
-            <Card.Title>Git</Card.Title>
+            <Card.Title>Git Hub</Card.Title>
             <Card.Text>
               gitHub adalah platform khusus developer yang dibuat karena terinspirasi dari cara bekerja para programmer. Dari open source ke bisnis, kita bisa meng-host dan meninjau sebuah kode, mengelola project, dan membangun perangkat
               lunak bersama 56 juta lebih pengguna di seluruh dunia.
