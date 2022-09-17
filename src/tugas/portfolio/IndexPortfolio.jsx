@@ -1,8 +1,8 @@
 import React from "react";
-import Content from "./content/content";
+import Content from "./component/Content";
 import Navbarcomp from "./navbar/Navbarcomp";
 
-function IndexPortfolio() {
+function Indexportfolio() {
   return (
     <div>
       <Navbarcomp />
@@ -11,4 +11,4 @@ function IndexPortfolio() {
   );
 }
 
-export default IndexPortfolio;
+export default Indexportfolio;
